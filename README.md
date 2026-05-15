@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/afeefck12345/Leetcode/tree/master/0709-to-lower-case) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/afeefck12345/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/afeefck12345/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Bit Manipulation
 |  |
 | ------- |
