@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/afeefck12345/Leetcode/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/afeefck12345/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/afeefck12345/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/afeefck12345/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/afeefck12345/Leetcode/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
