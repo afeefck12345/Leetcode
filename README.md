@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/afeefck12345/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/afeefck12345/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/afeefck12345/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/afeefck12345/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/afeefck12345/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/afeefck12345/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/afeefck12345/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
