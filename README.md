@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/afeefck12345/Leetcode/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/afeefck12345/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/afeefck12345/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/afeefck12345/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/afeefck12345/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/afeefck12345/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/afeefck12345/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -61,8 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
