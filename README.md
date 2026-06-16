@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/afeefck12345/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/afeefck12345/Leetcode/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/afeefck12345/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
@@ -63,15 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
