@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/afeefck12345/Leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/afeefck12345/Leetcode/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/afeefck12345/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/afeefck12345/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/afeefck12345/Leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
