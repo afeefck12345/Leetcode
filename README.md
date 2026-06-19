@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/afeefck12345/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/afeefck12345/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/afeefck12345/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/afeefck12345/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefck12345/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/afeefck12345/Leetcode/tree/master/0414-third-maximum-number) |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/afeefck12345/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/afeefck12345/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
