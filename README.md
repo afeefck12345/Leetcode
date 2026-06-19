@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/afeefck12345/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/afeefck12345/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/afeefck12345/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/afeefck12345/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/afeefck12345/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
