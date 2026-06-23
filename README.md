@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/afeefck12345/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/afeefck12345/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/afeefck12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/afeefck12345/Leetcode/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/afeefck12345/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/afeefck12345/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/afeefck12345/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/afeefck12345/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/afeefck12345/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
